@@ -1,0 +1,2 @@
+This is a new file created locally. I created it to see what happens when I add something to a local folder
+that's being used as the source for my GitHub test repo.
